@@ -9,6 +9,10 @@ author = "Dhruv Kandpal"
 description = "Pre-Final Year Mech Eng @ IIT Roorkee | UAV Swarms • CFD • Structural Simulation • ML for Physics"
 profilePicture = "images/profile.jpeg"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
