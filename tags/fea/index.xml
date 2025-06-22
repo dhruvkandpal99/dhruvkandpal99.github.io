@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dhruv Kandpal&#39;s Blog</title>
-    <link>https://dhruvkandpal99.github.io/posts/</link>
-    <description>Recent content in Posts on Dhruv Kandpal&#39;s Blog</description>
+    <title>FEA on Dhruv Kandpal&#39;s Blog</title>
+    <link>https://dhruvkandpal99.github.io/tags/fea/</link>
+    <description>Recent content in FEA on Dhruv Kandpal&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dhruvkandpal99.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dhruvkandpal99.github.io/tags/fea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shell-Based Honeycomb Modelling for Impact Protection in Projectile Electronics</title>
       <link>https://dhruvkandpal99.github.io/posts/mypost/</link>
